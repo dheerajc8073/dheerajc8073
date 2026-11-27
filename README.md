@@ -1,253 +1,144 @@
-# 🚀 Dheeraj C - Projects Showcase
-
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/dheerajc8073?style=social)
-![GitHub stars](https://img.shields.io/github/stars/dheerajc8073?affiliations=OWNER%2CCOLLABORATOR&style=social)
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,49,27,88&height=230&section=header&text=Dheeraj%20C&fontSize=70&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20Open-Source%20Contributor&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Dheeraj C Header"/>
 
-**Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor**
+  <!-- Typing SVG -->
+  <a href="https://github.com/dheerajc8073">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Open-Source+Contributor+%40+SuperClaude+(24,000%2B+%E2%AD%90);Building+Autonomous+AI+Agents+%26+MCP+Infrastructure;Full-Stack+Architect+%7C+Python+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Passionate+about+Robust+Systems%2C+CI%2FCD+%26+Open+Source" alt="Typing SVG" />
+  </a>
 
-[🌐 Portfolio](https://dheerajc.dev) • [📧 Email](mailto:dheerajc8073@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/dheerajc8073) • [🐦 Twitter](https://twitter.com/dheerajc8073)
+  <br/>
+
+  <!-- Quick Badges -->
+  <a href="https://github.com/dheerajc8073">
+    <img src="https://img.shields.io/github/followers/dheerajc8073?style=for-the-badge&logo=github&color=6366F1&labelColor=0f172a" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/dheerajc8073">
+    <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-10B981?style=for-the-badge&logo=git&labelColor=0f172a" alt="Open Source Contributor" />
+  </a>
+  <a href="mailto:dheerajc8073@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&labelColor=0f172a" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/dheerajc8073">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0f172a" alt="LinkedIn" />
+  </a>
 
 </div>
 
 ---
 
-## 📋 All My Projects
+## 🌟 Featured Open-Source Contributions
 
-### 1. 🐍 **Snake Detection System** (⭐ 3)
-**Repository:** [`snake-detections-`](https://github.com/dheerajc8073/snake-detections-)  
-**Language:** Python  
-**Status:** Active 🔥
+I actively contribute to high-impact developer tooling, LLM agent frameworks, and runtime libraries in the global open-source ecosystem.
 
-AI-powered Snake Detection System using YOLOv8 for real-time snake identification through images, videos, and live webcam streams. Built with Python, FastAPI, and modern web technologies for fast and accurate wildlife safety monitoring.
+<div align="center">
 
-**Key Features:**
-- Real-time snake detection using YOLOv8
-- Support for images, videos, and live webcam streams
-- FastAPI backend for high performance
-- Modern web interface
-- Wildlife safety monitoring
+| Project | Stars | Role / PR | Impact & Details | Status |
+| :--- | :---: | :--- | :--- | :---: |
+| [**SuperClaude Framework**](https://github.com/SuperClaude-Org/SuperClaude_Framework) | **23.9k ⭐** | [**PR #584**](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/584) | Repaired compose URL (404), resolved OCI runtime bind-mount crash, automated config scaffolding, tagged into release **v4.3.1**. | 🟣 **MERGED** |
+| [**SuperClaude Framework**](https://github.com/SuperClaude-Org/SuperClaude_Framework) | **23.9k ⭐** | [**PR #585**](https://github.com/SuperClaude-Org/SuperClaude_Framework/pull/585) | Resolved Windows `UnicodeEncodeError` emoji crash across `install`, `mcp`, and `doctor` commands with stream reconfiguration. | 🟢 **100% CI PASS** |
+| [**claude-skills**](https://github.com/Jeffallan/claude-skills) | **12.5k ⭐** | [**PR #355**](https://github.com/Jeffallan/claude-skills/pull/355) | Upgraded Python agent metadata to `skill-linter 0.5.0` standards with official upstream documentation pins. | 🟣 **MERGED** |
+| [**claude-skills**](https://github.com/Jeffallan/claude-skills) | **12.5k ⭐** | [**PR #360**](https://github.com/Jeffallan/claude-skills/pull/360) | Standardized multi-product documentation baselines across Go, JavaScript, PHP, and Swift agent skills. | 🟢 **OPEN** |
+| [**yaml/pyyaml**](https://github.com/yaml/pyyaml) | **3.0k ⭐** | [**PR #1021**](https://github.com/yaml/pyyaml/pull/1021) | Resolved Python 3.11+ empty object serialization `TypeError` in `SafeRepresenter`, authored 7 regression unit tests. | 🟢 **OPEN** |
 
-**Stats:** 3 stars | 20.3 MB repository size
+</div>
 
 ---
 
-### 2. 🎮 **Snake Game Backend**
-**Repository:** [`snake-backend`](https://github.com/dheerajc8073/snake-backend)  
-**Language:** Python  
-**Status:** Active
+## 📊 GitHub Analytics & Real-Time Metrics
 
-Backend service for an interactive snake game application. Python-based REST API providing game logic, state management, and leaderboard functionality.
+<div align="center">
 
-**Key Features:**
-- Game logic engine
-- State management
-- Leaderboard system
-- RESTful API endpoints
-- Performance optimized
+  <!-- Lowlighter Metrics Card (Generated by Action) -->
+  <img src="github-metrics.svg" alt="Metrics" width="100%" onerror="this.style.display='none'"/>
 
-**Stats:** 20.3 MB repository size | Last updated: May 22, 2026
+  <br/>
 
----
+  <!-- Stats & Streak Cards -->
+  <a href="https://github.com/dheerajc8073">
+    <img src="https://github-readme-stats.vercel.app/api?username=dheerajc8073&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="49%"/>
+    <img src="https://streak-stats.demolab.com/?user=dheerajc8073&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" alt="GitHub Streak" width="49%"/>
+  </a>
 
-### 3. 🛡️ **PhishGuard Backend**
-**Repository:** [`phishguard-backend`](https://github.com/dheerajc8073/phishguard-backend)  
-**Language:** Python  
-**Status:** Active
+  <br/>
 
-Cybersecurity tool backend for phishing detection and prevention. Implements advanced machine learning algorithms to identify and mitigate phishing attacks.
+  <!-- Top Languages -->
+  <a href="https://github.com/dheerajc8073">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajc8073&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=94A3B8" alt="Top Languages" width="60%"/>
+  </a>
 
-**Key Features:**
-- Phishing detection algorithms
-- Machine learning models
-- Security automation
-- Threat analysis
-- Alert system
+  <br/>
 
-**Stats:** 7.7 MB repository size | Last updated: April 14, 2026
+  <!-- GitHub Profile Trophies -->
+  <a href="https://github.com/dheerajc8073">
+    <img src="https://github-profile-trophy.vercel.app/?username=dheerajc8073&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4&column=7" alt="Trophies" width="100%"/>
+  </a>
+
+</div>
 
 ---
 
-### 4. 💻 **Frontend: Snake Detector App**
-**Repository:** [`v0-snake-detector-app`](https://github.com/dheerajc8073/v0-snake-detector-app) 🔒 *Private*  
-**Language:** TypeScript  
-**Status:** Active
+## 🛠️ Tech Stack & Developer Toolkit
 
-Modern frontend application for snake detection system. Built with TypeScript and deployed on Vercel for seamless user experience.
+<div align="center">
 
-**Key Features:**
-- Real-time detection interface
-- Image/video upload support
-- Webcam integration
-- Results visualization
-- User-friendly dashboard
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Links:**
-- 🌐 [Live Demo](https://v0-snake-detector-app.vercel.app)
+### 🚀 Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Stats:** 142 KB repository size | Last updated: May 22, 2026
+### 🤖 AI, Agents & Computer Vision
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-FF6F00?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic%20Ecosystem-D97706?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-8B5CF6?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+### ☁️ DevOps, Containers & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 5. 📊 **Weather App**
-**Repository:** [`weather`](https://github.com/dheerajc8073/weather)  
-**Language:** JavaScript  
-**Status:** Active
-
-Interactive weather application with real-time data fetching and visualization. Built with JavaScript and deployed with GitHub Pages.
-
-**Key Features:**
-- Real-time weather data
-- Location-based forecasting
-- Interactive UI
-- Multiple weather metrics
-- Responsive design
-
-**Stats:** Last updated: April 11, 2026
+</div>
 
 ---
 
-### 6. 🧮 **Calculator**
-**Repository:** [`calculator`](https://github.com/dheerajc8073/calculator)  
-**Language:** HTML  
-**Status:** Active
+## 📌 Featured Original Projects
 
-Simple yet elegant calculator application built with HTML, CSS, and JavaScript. Perfect for learning frontend development basics.
+### 🐍 [Snake Detection System](https://github.com/dheerajc8073/snake-detections-)
+> **Real-time AI wildlife safety & snake classification system**
+* Built with **YOLOv8**, **FastAPI**, and **TypeScript**.
+* Features instant detection via image, video upload, and live webcam feeds.
+* High-performance asynchronous backend architecture deployed on cloud infrastructure.
 
-**Key Features:**
-- Basic arithmetic operations
-- Clean interface
-- Real-time calculations
-- Responsive design
-
-**Stats:** Last updated: April 11, 2026
+### 🛡️ [PhishGuard Security Engine](https://github.com/dheerajc8073/phishguard-backend)
+> **Automated phishing detection & cybersecurity mitigation service**
+* Machine learning classifiers for real-time URL and payload threat analysis.
+* Scalable REST API with threat scoring, automated blacklisting, and reporting.
 
 ---
 
-### 7. 💾 **First GitHub Project**
-**Repository:** [`git-hub-first-project`](https://github.com/dheerajc8073/git-hub-first-project)  
-**Language:** C  
-**Status:** Legacy
-
-My first GitHub project exploring C programming. Documents the journey of learning version control and collaborative development.
-
-**Description:** C programming exercises and fundamental projects
-
-**License:** Mozilla Public License 2.0
-
-**Stats:** Created: September 28, 2025 | Last updated: September 28, 2025
-
----
-
-## 📊 Project Statistics
-
-| Project | Language | Type | Status | Size |
-|---------|----------|------|--------|------|
-| 🐍 Snake Detections | Python | AI/ML | 🔥 Active | 20.3 MB |
-| 🎮 Snake Backend | Python | Backend | 🔥 Active | 20.3 MB |
-| 🛡️ PhishGuard Backend | Python | Security | 🔥 Active | 7.7 MB |
-| 💻 Snake Detector Frontend | TypeScript | Frontend | 🔥 Active | 142 KB |
-| 📊 Weather App | JavaScript | Web App | ✅ Active | 1 KB |
-| 🧮 Calculator | HTML | Web App | ✅ Active | 1 KB |
-| 💾 First Project | C | Learning | 📦 Legacy | 7 KB |
-
----
-
-## 🛠️ Tech Stack Overview
-
-### Backend & APIs
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-- ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-
-### Frontend & Web
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![HTML](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white)
-
-### AI/ML
-- ![YOLOv8](https://img.shields.io/badge/YOLOv8-Machine%20Learning-412991?logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
-### Deployment
-- ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-- ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white)
-
----
-
-## 📈 Repository Stats
-
-```
-Total Repositories:     7
-Public:                 6
-Private:                1
-Total Stars:            3
-Most Popular:           snake-detections- ⭐⭐⭐
-Primary Language:       Python
-```
-
----
-
-## 🎯 Project Highlights
-
-### 🏆 Best Project: Snake Detection System
-- **Stars:** ⭐⭐⭐
-- **Complexity:** High (AI/ML + Full-Stack)
-- **Impact:** Real-world wildlife safety application
-- **Technologies:** YOLOv8, FastAPI, TypeScript, Vercel
-
-### 🚀 Most Recent: Snake Detection System
-- **Last Updated:** May 29, 2026
-- **Status:** Actively maintained
-
-### 💡 Learning Journey
-From basic calculators and weather apps to advanced AI-powered detection systems - showcasing continuous growth and learning.
-
----
-
-## 🔗 Quick Links
-
-| Repository | GitHub | Live Demo |
-|------------|--------|-----------|
-| 🐍 Snake Detections | [View](https://github.com/dheerajc8073/snake-detections-) | — |
-| 🎮 Snake Backend | [View](https://github.com/dheerajc8073/snake-backend) | — |
-| 🛡️ PhishGuard Backend | [View](https://github.com/dheerajc8073/phishguard-backend) | — |
-| 💻 Snake Detector App | [View](https://github.com/dheerajc8073/v0-snake-detector-app) | [Live](https://v0-snake-detector-app.vercel.app) |
-| 📊 Weather App | [View](https://github.com/dheerajc8073/weather) | — |
-| 🧮 Calculator | [View](https://github.com/dheerajc8073/calculator) | — |
-| 💾 First Project | [View](https://github.com/dheerajc8073/git-hub-first-project) | — |
-
----
-
-## 🎓 Skills & Technologies
-
-**Languages:** Python • JavaScript • TypeScript • HTML • C  
-**Backend:** FastAPI • Python  
-**Frontend:** TypeScript • React concepts • Modern JavaScript  
-**AI/ML:** YOLOv8 • Machine Learning • Computer Vision  
-**Deployment:** Vercel • GitHub Pages • Docker  
-**Security:** Phishing Detection • Threat Analysis  
-
----
-
-## 📞 Get In Touch
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-dheerajc8073-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dheerajc8073)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajc8073)
-[![Twitter](https://img.shields.io/badge/Twitter-@dheerajc8073-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dheerajc8073)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajc8073@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dheerajc8073%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajc8073@gmail.com)
 
-</div>
+<br/>
+<br/>
 
----
-
-<div align="center">
-
-**⭐ If you find these projects interesting, please star them!**
-
-*Last Updated: May 29, 2026*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,49,27,88&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
